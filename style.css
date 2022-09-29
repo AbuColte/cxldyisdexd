@@ -241,7 +241,7 @@ a {
 
 }
 
-@media (max-width: 400px) {
+@media (max-width: 300px) {
   .button-container {
     width: 200px;
     margin: 100px 100px 50px 150px;
